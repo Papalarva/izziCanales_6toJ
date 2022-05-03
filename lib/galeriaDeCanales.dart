@@ -21,14 +21,13 @@ class _PaginaInicialState extends State<PaginaInicial> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Galeria de Canales"),
+          title: Text("Galeria de Canales V2"),
         ),
         body: GridView.builder(
           itemCount: images.length,
           itemBuilder: (BuildContext context, int index) {
             return Image.asset(
               images[index],
-              width: 200,
               fit: BoxFit.fill,
             );
           },
