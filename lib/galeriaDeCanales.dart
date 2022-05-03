@@ -28,6 +28,7 @@ class _PaginaInicialState extends State<PaginaInicial> {
           itemBuilder: (BuildContext context, int index) {
             return Image.asset(
               images[index],
+              width: 200,
               fit: BoxFit.fill,
             );
           },
