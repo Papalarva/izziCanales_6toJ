@@ -46,6 +46,7 @@ class _PaginaInicialState extends State<PaginaInicial> {
             return Image.asset(
               images[index],
               fit: BoxFit.cover,
+              width: 200,
             );
           },
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, mainAxisSpacing: 20, crossAxisSpacing: 20),
