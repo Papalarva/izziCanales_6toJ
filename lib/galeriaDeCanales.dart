@@ -28,7 +28,7 @@ class _PaginaInicialState extends State<PaginaInicial> {
           itemBuilder: (BuildContext context, int index) {
             return Image.asset(
               images[index],
-              fit: BoxFit.fitHeight,
+              fit: BoxFit.fill,
             );
           },
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, mainAxisSpacing: 20, crossAxisSpacing: 20),
