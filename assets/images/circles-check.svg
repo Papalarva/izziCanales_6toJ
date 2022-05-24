@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+    <defs>
+        <linearGradient id="prefix__a" x1="49.88%" x2="50.034%" y1="4.523%" y2="93.978%">
+            <stop offset="0%" stop-color="#D6006D" stop-opacity=".1"/>
+            <stop offset="45%" stop-color="#DD237A" stop-opacity=".4"/>
+            <stop offset="82%" stop-color="#E13B83" stop-opacity=".62"/>
+            <stop offset="100%" stop-color="#E34587" stop-opacity=".7"/>
+        </linearGradient>
+        <linearGradient id="prefix__b" x1="51.541%" x2="49.378%" y1="108.141%" y2="-7.902%">
+            <stop offset="17%" stop-color="#00BBB4" stop-opacity=".1"/>
+            <stop offset="37%" stop-color="#00BBB4" stop-opacity=".24"/>
+            <stop offset="79%" stop-color="#00BBB4" stop-opacity=".5"/>
+            <stop offset="100%" stop-color="#00BBB4" stop-opacity=".6"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#prefix__a)" fill-rule="nonzero" d="M14.947 7.529c0 1.977-.79 3.874-2.197 5.272-1.406 1.398-3.314 2.184-5.303 2.183v-3.262c2.33 0 4.217-1.878 4.217-4.193 0-2.316-1.888-4.193-4.217-4.193V.073c1.989 0 3.897.785 5.304 2.183 1.406 1.399 2.196 3.295 2.196 5.273" transform="matrix(-1 0 0 1 15 0)"/>
+        <path fill="url(#prefix__b)" fill-rule="nonzero" d="M.053 7.472c0 1.977.79 3.874 2.197 5.272 1.406 1.398 3.314 2.183 5.303 2.183v-3.259c-2.33 0-4.217-1.877-4.217-4.193 0-2.315 1.888-4.192 4.217-4.192V.016C5.563.016 3.656.8 2.25 2.199.842 3.597.052 5.494.053 7.472" transform="matrix(-1 0 0 1 15 0)"/>
+        <path d="M7.447 0.073H14.947V14.984H7.447z" transform="matrix(-1 0 0 1 15 0)"/>
+        <path fill="#00BBB4" fill-rule="nonzero" d="M5.88 1.689c0 .887.719 1.607 1.607 1.607.887 0 1.607-.72 1.607-1.607C9.094.8 8.374.08 7.487.08c-.427 0-.836.17-1.137.47-.301.302-.47.711-.47 1.138" transform="matrix(-1 0 0 1 15 0)"/>
+        <path fill="#D6006D" fill-rule="nonzero" d="M5.845 13.377c0 .887.72 1.607 1.608 1.607.887 0 1.607-.72 1.607-1.607 0-.888-.72-1.607-1.607-1.607-.427 0-.836.169-1.137.47-.302.302-.47.71-.47 1.137" transform="matrix(-1 0 0 1 15 0)"/>
+    </g>
+</svg>
